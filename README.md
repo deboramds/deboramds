@@ -1,5 +1,5 @@
 - Olá, Eu sou a Débora !! ✌️
-- 💻 Estudo desenvolvimento Web na Laboratória Brasil
+- 💻 Estudo Desenvolvimento Web na Laboratória Brasil
 - 🧘 Gosto de meditar
 - 💮🌺🌷Estar na natureza🌹🌻
 - 📫 Você pode me contatar:  deborah.mart@hotmail.com
