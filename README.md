@@ -1,7 +1,5 @@
 - Olá, Eu sou a Débora !! ✌️
 - 💻 Estudo Desenvolvimento Web na Laboratória Brasil
-- 🧘 Gosto de meditar
-- 💮🌺🌷Estar na natureza🌹🌻
 - 📫 Você pode me contatar:  deborah.mart@hotmail.com
 - Maiores informações https://www.linkedin.com/in/d%C3%A9bora-martins-santos/
 
