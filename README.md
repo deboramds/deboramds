@@ -1,5 +1,5 @@
 - Olá, Eu sou a Débora !! ✌️
-- 💻 Desenvolvedora web - Front-end formada pelo Bootcamp da Laboratória Brasil
+- 💻 Desenvolvedora Web Front-End formada pelo Bootcamp da Laboratória Brasil
 - 📫 Você pode me contatar:  deborah.mart@hotmail.com
 - Maiores informações www.linkedin.com/in/debora-martins-dos-santos
 
