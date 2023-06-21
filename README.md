@@ -30,6 +30,6 @@
 <div align="center"> 
   <a href="https://app.slack.com/client/T0NNB6T0R/C03MUM1ENHM/rimeto_profile/U03N6BZ4VQD" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:50px;"></a>
   <a href="mailto:deborah.mart@outlook.com"_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius:50px;"></a>
-   <a href="https://www.linkedin.com/in/debora-martins-dos-santos/" target"=_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="width:70px; height:70px; "border-radius:50px"></a>
+   <a href="https://www.linkedin.com/in/debora-martins-dos-santos/" target"=_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="width:70px; height:70px;"></a>
  	
 </div>
