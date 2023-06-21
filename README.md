@@ -1,7 +1,6 @@
 - Olá, Eu sou a Débora !! ✌️
 - 💻 Desenvolvedora Web Front-End formada pelo Bootcamp da Laboratória Brasil e estudante Full Stack pela Campinho Digital.
-- 📧 deborah.mart@hotmail.com
-- 🔗 www.linkedin.com/in/debora-martins-dos-santos
+
 
 ![giphy](https://user-images.githubusercontent.com/107868796/196541862-e3a54b18-7aca-40c4-ac76-470a9f2e686f.gif)
 
