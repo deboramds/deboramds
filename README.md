@@ -1,6 +1,6 @@
 - Olá, Eu sou a Débora !! ✌️
 - 💻 Desenvolvedora Web Front-End formada pelo Bootcamp da Laboratória Brasil,
-- Estudante Full Stack pela Campinho Digital,
+- Desenvolvedora Full Stack pela Campinho Digital,
 - Estudante de Análise e Desenvolvimento de Sistemas pela Estácio.
 
 
